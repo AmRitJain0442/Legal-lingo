@@ -1,7 +1,7 @@
 [project]
 name = "legal-lingo"
 version = "0.1.0"
-description = "A Chatbot that helps students learn effectively, enables parents to monitor their child's progress, and allows teachers to track class performance"
+description = "A comprehensive API for Legal Lingo"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [

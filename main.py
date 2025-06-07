@@ -55,7 +55,7 @@ if settings is None:
 
 app = FastAPI(
     title=settings.app_name,
-    description="A comprehensive API for Legal Lingo - helping students learn effectively",
+    description="A comprehensive API for Legal Lingo",
     version=settings.app_version,
     docs_url="/docs",
     redoc_url="/redoc",
